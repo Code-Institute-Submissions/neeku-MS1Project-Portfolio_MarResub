@@ -163,7 +163,7 @@ section {
 
 /* ------------------------------- Contact Form  */
 .uppercase {
-    text-transform: uppercase;
+    text-transform: uppercase !important;
 }
 .contact-heading {
     font-family: "Exo", sans-serif;
