@@ -37,3 +37,11 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+--------
+
+This is my first milestone project that is a personal portfolio website using HTML, CSS and Bootstrap. I've tried to keep it simple. I have a main page, an about page and a contact page. I also have a link to download my cv in PDF.
+
+I have used my own photographs for the backgrounds, a favicon with my initials and a bootstrap code for a responsive vertical navbar that switches to a top bar in mobile devices. 
+
+I have used this Bootstrap code for my navbar: https://www.codeply.com/go/Rgq96HykJ2/sidebar-that-changes-to-navbar .

@@ -1,11 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:100,200,300,400,500,600,700|Montez:100,200,300,400,500');
+
 
 
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/flower.png") top right no-repeat;
-  background-repeat: repeat;
-  position: relative;
+  background: url("../images/cliffs.jpg") center no-repeat;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  background-size: cover;
 }
 
 @media (min-width: 992px) {
@@ -32,7 +36,7 @@
   color: #45505b;
   margin: 15px 0 0 0;
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montez", sans-serif;
 }
 
 #hero p span {
@@ -162,11 +166,9 @@ section {
 
 
 /* ------------------------------- Contact Form  */
-.uppercase {
-    text-transform: uppercase !important;
-}
-.contact-heading {
-    font-family: "Exo", sans-serif;
+
+.heading {
+    font-family: "Montez", sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 20px;
