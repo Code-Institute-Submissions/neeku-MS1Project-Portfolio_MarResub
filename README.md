@@ -1,47 +1,76 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# NEEKU SHAMEKHI'S PORTFOLIO WEBSITE
+## Description
+This is a portfolio website created for my first Milestone Project.
 
-Welcome Neeku,
+The purpose of this website is to provide information on who I am and what services I can deliver by providing my CV, and letting people to contact me.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+I have tried to keep it simple. The website is split into 3 main pages:
 
-## Gitpod Reminders
+- Home: An Introduction to me with links to my social media profiles.
+- About: Information on who I am and what I do.
+- Contact: A form to contact me for recruiting or any other purposes.
+- There is also a link to a downloadable version of my CV.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Deployment
+My portfolio website has been deployed to [my github page](https://github.com/neeku/MS1Project-Portfolio)
 
-`python3 -m http.server`
+## Wireframes
+Access wireframes from [here](https://github.com/neeku/MS1Project-Portfolio/blob/master/assets/wireframe/MS1-Portfolio.pdf)
 
-A blue button should appear to click: *Make Public*,
 
-Another blue button should appear to click: *Open Browser*.
+## User Experience (UX)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+![Responsive Design Image](https://github.com/neeku/MS1Project-Portfolio/blob/ff992bafda561ca2d43148eb761f13448e418e9f/assets/images/responsivedesign.png)
 
-A blue button should appear to click: *Make Public*,
+This site is a personal portfolio for myself.
 
-Another blue button should appear to click: *Open Browser*.
+The page layout is responsive; it has a left side vertical menu bar for larger displays which switches to a horizontal top navigation bar in smaller displays where the menu item names are hidden and only the relevant icons are displayed.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+For further enhancement of the website and to make it distinguishable when there are many open tabs, a favicon with my initials is added. 
 
-## Updates Since The Instructional Video
+Background images are my own photographs.
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+## User Stories
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+#### Potential visitor 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+As a potential visitor to the website one may want to know:
+- Who I am and what I do
+- My social media profiles that show my professional skills and hobbies
+- Further educational and professional background that can be accessed from my downloadable CV
+- Contact me via the contact form
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Features
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+- Responsive Design
+- Social media links
+- Contact form
 
---------
+## Testing
+This site was tested using various resources such as:
 
-Happy coding!
+- [Am I Responsive](http://ami.responsivedesign.is/) was used to test the site on various screen sizes to ensure the information could be viewed correctly
+- [HTML Validator](https://validator.w3.org/) used to validate HTML
+- [CSS Validator](https://jigsaw.w3.org/css-validator/) used to validate CSS
+- [Pingdom](https://tools.pingdom.com/#5ca554057c800000) used to test speed of website
 
---------
+## Technologies
 
-This is my first milestone project that is a personal portfolio website using HTML, CSS and Bootstrap. I've tried to keep it simple. I have a main page, an about page and a contact page. I also have a link to download my cv in PDF.
+#### Languages Used
+- HTML
+- CSS
 
-I have used my own photographs for the backgrounds, a favicon with my initials and a bootstrap code for a responsive vertical navbar that switches to a top bar in mobile devices. 
+#### Frameworks Used
+- Bootstrap
 
-I have used this Bootstrap code for my navbar: https://www.codeply.com/go/Rgq96HykJ2/sidebar-that-changes-to-navbar .
+#### Tools Used
+- [Am I Responsive](http://ami.responsivedesign.is/): for testing as above
+- [Balsamiq](https://balsamiq.com/): to create wireframes
+- [fontawesome](https://fontawesome.com/icons?d=gallery): for social media and menu icons
+- [Google Fonts](https://fonts.google.com/?selection.family=Lexend+Tera#standard-styles)
+- [Gitpod](https://www.gitpod.io/): for creating the website
+- [Codeply](https://www.codeply.com/go/Rgq96HykJ2/sidebar-that-changes-to-navbar): for a sidebar that changes to navbar in smaller displays
+
+## Acknowledgements
+
+I'd like to thank Felipe Souza Alarcon, my mentor for his support throughout this project.
