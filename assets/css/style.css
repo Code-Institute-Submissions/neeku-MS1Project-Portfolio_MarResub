@@ -24,6 +24,8 @@
 #hero p span {
     color: #45505b;
 }
+
+/* ---------------------- Styles for the Social links on the home page ----------*/
 #hero .social-links {
     margin-top: 2rem;
 }
@@ -31,6 +33,11 @@
     font-size: 1.5rem;
     display: inline-block;
     color: #45505b;
+    
+    background: inherit;
+    background-clip: text;
+    filter: invert(1);
+
     line-height: 1;
     margin-left: 1.2rem;
     transition: .3s;
@@ -92,7 +99,7 @@ section {
 /* ------------------ about page */
 .about .content h3 {
     font-weight: 700;
-    font-size: 1.6rem;
+    font-size: 1.3rem;
     color: #728394;
 }
 .about .content ul {
@@ -107,6 +114,9 @@ section {
     padding-right: .5rem;
     color: #8e44ad;
 }
+
+/* ------------------ Contact form */
+
 .heading {
     font-family: "Montez", sans-serif;
     font-weight: 300;
