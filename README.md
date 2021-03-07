@@ -15,7 +15,7 @@ I have tried to keep it simple. The website is split into 3 main pages:
 
 ## User Experience (UX)
 
-![Responsive Design Image](https://github.com/neeku/MS1Project-Portfolio/blob/ff992bafda561ca2d43148eb761f13448e418e9f/assets/images/responsivedesign.png)
+![Responsive Design Image](https://github.com/neeku/MS1Project-Portfolio/blob/master/assets/images/responsivedesign.png)
 
 This site is a personal portfolio for myself.
 
