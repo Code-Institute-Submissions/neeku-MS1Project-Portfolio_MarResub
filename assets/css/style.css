@@ -24,7 +24,6 @@
 #hero p span {
     color: #45505b;
 }
-
 /* ---------------------- Styles for the Social links on the home page ----------*/
 #hero .social-links {
     margin-top: 2rem;
@@ -37,7 +36,6 @@
     background: inherit;
     background-clip: text;
     filter: invert(1);
-
     line-height: 1;
     margin-left: 1.2rem;
     transition: .3s;
@@ -114,9 +112,11 @@ section {
     padding-right: .5rem;
     color: #8e44ad;
 }
-
+.bg-white-opac {
+    background-color: rgba(255,255,255,.8);
+    padding: 1rem;
+}
 /* ------------------ Contact form */
-
 .heading {
     font-family: "Montez", sans-serif;
     font-weight: 300;
