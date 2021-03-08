@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Description](#Description)
-* [User Experience (UX)](#User-Experience-(UX))
+* [User Experience (UX)](#User-Experience)
   * [User stories](#User-Stories)
     * [Potential Visitor](#Potential-Visitor)
   * [Structure](#Structure)
@@ -13,11 +13,10 @@
     * [Wireframes](#Wireframes)
 - [Features](#Features)
 * [Technologies](#Technologies)
+  * [Languages Used](#Languages-Used)
+  * [Frameworks Used](#Frameworks-Used)
+  *[Tools Used](Tools-Used)
 * [Testing](#Testing)
-    * [Test Strategy](#Test-Strategy)
-      * [Summary](#Summary)
-    * [Test Results](#Test-Results)
-    * [Testing Issues](#Issues-and-Resolutions-to-issues-found-during-testing)
 * [Deployment](#Deployment)
     * [Project Creation](#Project-Creation)
     * [GitHub Pages](#Using-Github-Pages)
@@ -190,6 +189,17 @@ Opening a bash terminal in Visual studio code I then typed git clone [link from 
 1. Use the 'git clone' command in terminal followed by the copied git URL.
 1. A clone of the project will be created locally on your machine.
 
-## Acknowledgements
+## Credits
+### Code
+The code to display the colors on the Readme file was taken from this [Stackoverflow post](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file/65174367#65174367)
+### Content
+The content of this software was created by Neeku Shamekhi. 
+
+The Readme.md style was inspired by Daisy McGirr's [MS1 Project](https://github.com/Daisy-McG/MilestoneProject-1).
+
+### Media
+The background images used in this website are taken by and belong to Neeku Shamekhi.
+
+### Acknowledgements
 
 I'd like to thank Spencer Barriball, my awesome mentor, for his genuine support throughout this project, and Ciara Browne and all the wonderful people in Student Care department of Code Institute for being patient with me while I've been struggling to navigate my path in the recent months.
