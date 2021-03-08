@@ -1,5 +1,32 @@
 # NEEKU SHAMEKHI'S PORTFOLIO WEBSITE
 
+## Table of Contents
+* [Description](#Description)
+* [User Experience (UX)](#User-Experience-(UX))
+  * [User stories](#User-Stories)
+    * [Potential Visitor](#Potential-Visitor)
+  * [Structure](#Structure)
+  * [Design](#Design)
+    * [Colour Scheme](#Colour-Scheme)
+    * [Typography](#Typography)
+    * [Imagery](#Imagery)
+    * [Wireframes](#Wireframes)
+- [Features](#Features)
+* [Technologies](#Technologies)
+* [Testing](#Testing)
+    * [Test Strategy](#Test-Strategy)
+      * [Summary](#Summary)
+    * [Test Results](#Test-Results)
+    * [Testing Issues](#Issues-and-Resolutions-to-issues-found-during-testing)
+* [Deployment](#Deployment)
+    * [Project Creation](#Project-Creation)
+    * [GitHub Pages](#Using-Github-Pages)
+    * [Locally](Run-Locally)
+* [Credits](#Credits)
+  * [Content](#Content)
+  * [Media](#Media)
+  * [Acknowledgements](#Acknowledgements)
+
 ## Description
 
 This is a portfolio website created for my first Milestone Project for the Code Institute's Full Stack Developer course. It is built using the knowledge gained from the HTML, CSS and User Centric Design modules of the course.
@@ -128,8 +155,9 @@ This site was tested using various resources such as:
 - [Am I Responsive](http://ami.responsivedesign.is/) was used to test the site on various screen sizes to ensure the information could be viewed correctly
 - [HTML Validator](https://validator.w3.org/) used to validate HTML on each page:
 -- [Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Findex.html)
--- [About Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fabout.html#l3c2)
+-- [About Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fabout.html)
 -- [Contact Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fcontact.html)
+
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) used to validate CSS
 - [Pingdom](https://tools.pingdom.com/#5ca554057c800000) used to test speed of website
 
@@ -147,7 +175,7 @@ Opening a bash terminal in Visual studio code I then typed git clone [link from 
 * git push - This command is used to push all commited changes to the GitHub repository. 
 
 ### Using Github Pages
-1. Navigate to the GitHub [Repository:](https://neeku.github.io/MS1Project-Portfolio)
+1. Go to the GitHub [Repository](https://neeku.github.io/MS1Project-Portfolio):
 1. Click the 'Settings' Tab.
 1. Scroll Down to the Git Hub Pages Heading.
 1. Select 'Master Branch' as the source.
@@ -155,7 +183,7 @@ Opening a bash terminal in Visual studio code I then typed git clone [link from 
 1. Click on the link to go to the live deployed page.
 
 ### Run Locally
-1. Navigate to the GitHub [Repository:](https://neeku.github.io/MS1Project-Portfolio)
+1. Go to the GitHub [Repository](https://neeku.github.io/MS1Project-Portfolio):
 1. Click the Code drop down menu.
 1. Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.
 1. Open your developement editor of choice and open a terminal window in a directory of your choice.
@@ -164,4 +192,4 @@ Opening a bash terminal in Visual studio code I then typed git clone [link from 
 
 ## Acknowledgements
 
-I'd like to thank Spencer Barriball, my awesome mentor, for his genuine support throughout this project, and all the wonderful people in Student Care department of Code Institute for being patient with me while I've been struggling to navigate my path in the recent months.
+I'd like to thank Spencer Barriball, my awesome mentor, for his genuine support throughout this project, and Ciara Browne and all the wonderful people in Student Care department of Code Institute for being patient with me while I've been struggling to navigate my path in the recent months.
