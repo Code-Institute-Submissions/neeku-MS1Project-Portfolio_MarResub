@@ -154,9 +154,9 @@ This site was tested using various resources such as:
 
 - [Am I Responsive](http://ami.responsivedesign.is/) was used to test the site on various screen sizes to ensure the information could be viewed correctly
 - [HTML Validator](https://validator.w3.org/) used to validate HTML on each page:
--- [Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Findex.html)
--- [About Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fabout.html)
--- [Contact Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fcontact.html)
+ -- [Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Findex.html)
+ -- [About Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fabout.html)
+ -- [Contact Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fcontact.html)
 
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) used to validate CSS
 - [Pingdom](https://tools.pingdom.com/#5ca554057c800000) used to test speed of website
