@@ -34,7 +34,7 @@
     color: #45505b;
     
     background: inherit;
-    background-clip: text;
+   /* background-clip: content-box;*/
     filter: invert(1);
     line-height: 1;
     margin-left: 1.2rem;
@@ -84,7 +84,7 @@ section {
     display: block;
     width: 3rem;
     /*height: 3px;*/
-    background: #8e44ad;
+    background: #e9780e;
     /*bottom: 0;*/
     left: calc(50% - 1.3rem);
 }
@@ -110,7 +110,7 @@ section {
 .about .content ul i {
     font-size: 1.2rem;
     padding-right: .5rem;
-    color: #8e44ad;
+    color: #e9780e;
 }
 .bg-white-opac {
     background-color: rgba(255,255,255,.8);
