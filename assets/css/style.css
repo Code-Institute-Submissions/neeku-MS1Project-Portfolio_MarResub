@@ -33,15 +33,18 @@
     display: inline-block;
     color: #45505b;
     
-    background: inherit;
-   /* background-clip: content-box;*/
-    filter: invert(1);
+background: inherit;
+  -webkit-background-clip: text;
+          background-clip: text;
+
+
+
     line-height: 1;
     margin-left: 1.2rem;
     transition: .3s;
 }
 #hero .social-links a:hover {
-    color: #e9780e;
+    color: #3fe999;
 }
 .icon {
     background: url('../images/apple-touch-icon.png');
@@ -84,7 +87,7 @@ section {
     display: block;
     width: 3rem;
     /*height: 3px;*/
-    background: #e9780e;
+    background: #3fe999;
     /*bottom: 0;*/
     left: calc(50% - 1.3rem);
 }
@@ -110,7 +113,7 @@ section {
 .about .content ul i {
     font-size: 1.2rem;
     padding-right: .5rem;
-    color: #e9780e;
+    color: #3fe999;
 }
 .bg-white-opac {
     background-color: rgba(255,255,255,.8);
