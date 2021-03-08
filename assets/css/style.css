@@ -11,18 +11,18 @@
     margin: 0;
     font-weight: 700;
     line-height: 2rem;
-    color: #45505b;
+    color: #ffffff;
     font-size: 2rem;
 }
 #hero p {
-    color: #45505b;
+    color: #ffffff;
     margin: 1rem 0 0 0;
     font-family: "Montserrat", sans-serif;
     font-size: 1.5rem;
     line-height: 1.6rem;
 }
 #hero p span {
-    color: #45505b;
+    color: #ffffff;
 }
 /* ---------------------- Styles for the Social links on the home page ----------*/
 #hero .social-links {
@@ -31,20 +31,13 @@
 #hero .social-links a {
     font-size: 1.5rem;
     display: inline-block;
-    color: #45505b;
-    
-background: inherit;
-  -webkit-background-clip: text;
-          background-clip: text;
-
-
-
+    color: #ffffff;
     line-height: 1;
     margin-left: 1.2rem;
     transition: .3s;
 }
 #hero .social-links a:hover {
-    color: #3fe999;
+    color: #275a36;
 }
 .icon {
     background: url('../images/apple-touch-icon.png');
@@ -69,7 +62,7 @@ section {
     margin-bottom: 1.3rem;
     padding-bottom: 1.3rem;
     position: relative;
-    color: #45505b;
+    color: #ffffff;
 }
 .section-title h2::before {
     content: '';
@@ -87,7 +80,7 @@ section {
     display: block;
     width: 3rem;
     /*height: 3px;*/
-    background: #3fe999;
+    background: #275a36;
     /*bottom: 0;*/
     left: calc(50% - 1.3rem);
 }
@@ -101,7 +94,7 @@ section {
 .about .content h3 {
     font-weight: 700;
     font-size: 1.3rem;
-    color: #728394;
+    color: #ffffff;
 }
 .about .content ul {
     list-style: none;
@@ -113,11 +106,7 @@ section {
 .about .content ul i {
     font-size: 1.2rem;
     padding-right: .5rem;
-    color: #3fe999;
-}
-.bg-white-opac {
-    background-color: rgba(255,255,255,.8);
-    padding: 1rem;
+    color: #275a36;
 }
 /* ------------------ Contact form */
 .heading {
@@ -125,6 +114,7 @@ section {
     font-weight: 300;
     margin-top: 1.7rem;
     margin-bottom: 1.2rem;
+    color: #ffffff;
 }
 .center-form {
     padding-top: .6rem;

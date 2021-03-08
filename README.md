@@ -80,13 +80,13 @@ As a potential visitor to the website one may want to know:
  > Further educational and professional background that can be accessed from my downloadable CV
 
 
-For further enhancement of the website and to make it distinguishable when there are many open tabs, a favicon with my initials is added. **???????**
+For further enhancement of the website and to make it distinguishable when there are many open tabs, a favicon with my initials is added. 
 
 ## Design
 
 ### Color Scheme
 
-The main colors used are two shades of gray, ![#45505b](https://via.placeholder.com/15/45505b/000000?text=+) and ![#728394](https://via.placeholder.com/15/728394/000000?text=+) that are nuetral and easy on the eye.
+The main color used is white, ![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+) for the text which is nuetral and easy on the eye, and dark green ![#275a36](https://via.placeholder.com/15/275a36/000000?text=+) for the social icons in hover mode that matches the background and is visible. 
 
 ### Typography
 
@@ -154,12 +154,12 @@ This site was tested using various resources such as:
 
 - [Am I Responsive](http://ami.responsivedesign.is/) was used to test the site on various screen sizes to ensure the information could be viewed correctly
 - [HTML Validator](https://validator.w3.org/) used to validate HTML on each page:
- -- [Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Findex.html)
- -- [About Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fabout.html)
- -- [Contact Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fcontact.html)
+    * [Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Findex.html)
+    * [About Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fabout.html)
+    * [Contact Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fcontact.html)
 
-- [CSS Validator](https://jigsaw.w3.org/css-validator/) used to validate CSS
-- [Pingdom](https://tools.pingdom.com/#5ca554057c800000) used to test speed of website
+- [CSS Validator](https://jigsaw.w3.org/css-validator/) used to validate [CSS](http://jigsaw.w3.org/css-validator/validator$link)
+- [Pingdom](https://tools.pingdom.com/#5e04c9db8ac00000) used to test speed of website
 
 
 ## Deployment
@@ -195,8 +195,6 @@ Opening a bash terminal in Visual studio code I then typed git clone [link from 
 The code to display the colors on the Readme file was taken from this [Stackoverflow post](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file/65174367#65174367)
 ### Content
 The content of this software was created by Neeku Shamekhi. 
-
-The Readme.md style was inspired by Daisy McGirr's [MS1 Project](https://github.com/Daisy-McG/MilestoneProject-1).
 
 ### Media
 The background images used in this website are taken by and belong to Neeku Shamekhi.
