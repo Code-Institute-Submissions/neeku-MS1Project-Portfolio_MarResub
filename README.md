@@ -158,7 +158,7 @@ This site was tested using various resources such as:
     * [About Page](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fabout.html)
     * [Contact Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fcontact.html)
 
-- [CSS Validator](https://jigsaw.w3.org/css-validator/) used to validate [CSS](http://jigsaw.w3.org/css-validator/validator$link)
+- [CSS Validator](https://jigsaw.w3.org/css-validator/) used to validate CSS
 - [Pingdom](https://tools.pingdom.com/#5e04c9db8ac00000) used to test speed of website
 
 
