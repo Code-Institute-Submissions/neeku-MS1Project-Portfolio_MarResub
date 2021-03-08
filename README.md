@@ -15,8 +15,9 @@
 * [Technologies](#Technologies)
   * [Languages Used](#Languages-Used)
   * [Frameworks Used](#Frameworks-Used)
-  *[Tools Used](Tools-Used)
+  * [Tools Used](Tools-Used)
 * [Testing](#Testing)
+  * [Test Results](Test Results)
 * [Deployment](#Deployment)
     * [Project Creation](#Project-Creation)
     * [GitHub Pages](#Using-Github-Pages)
@@ -161,6 +162,9 @@ This site was tested using various resources such as:
 - [CSS Validator](https://jigsaw.w3.org/css-validator/) used to validate [CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fneeku.github.io%2FMS1Project-Portfolio%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - [Pingdom](https://tools.pingdom.com/#5e04c9db8ac00000) used to test speed of website
 
+###Test Results
+
+There were no errors on the HTML or CSS files and the results are all linked above.
 
 ## Deployment
 My portfolio website has been deployed to [my github page](https://github.com/neeku/MS1Project-Portfolio)
