@@ -98,8 +98,9 @@ I have used a selection of background images for each page from my personal phot
 
 
 ## Wireframes
-Access wireframes from [here](https://github.com/neeku/MS1Project-Portfolio/blob/master/assets/wireframe/MS1-Portfolio.pdf)
+Access wireframes in PDF from [here](https://github.com/neeku/MS1Project-Portfolio/blob/master/assets/wireframe/MS1-Portfolio.pdf) or just view them below:
 
+![Wireframes](https://github.com/neeku/MS1Project-Portfolio/blob/master/assets/wireframe/MS1-Portfolio-PNG.png)
 
 
 ## Features
